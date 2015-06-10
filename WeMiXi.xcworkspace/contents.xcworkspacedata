@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ENXTranslator/ENXTranslatorDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ENXTranslator/Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/hongquan/Downloads/__MyIOSProjects/WeMiXi/ENXXmppios/XmppiosDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/hongquan/Downloads/__MyIOSProjects/WeMiXi/WeMixiMain/WeMiXi.xcodeproj">
+   </FileRef>
+</Workspace>
